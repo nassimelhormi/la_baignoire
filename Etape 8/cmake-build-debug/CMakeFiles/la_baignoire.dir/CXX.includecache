@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/AbstractEntity.cpp
+Character.h
+/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/Character.h
+AbstractEntity.h
+/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/AbstractEntity.h
+
+/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/AbstractEntity.h
+ISerializable.h
+/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/ISerializable.h
+
+/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/Character.h
+AbstractEntity.h
+/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/AbstractEntity.h
+IObservable.h
+/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/IObservable.h
+IObserver.h
+/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/IObserver.h
+list
+-
+
+/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/IObservable.h
+list
+-
+
+/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/IObserver.h
+
+/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/ISerializable.h
+iostream
+-
+

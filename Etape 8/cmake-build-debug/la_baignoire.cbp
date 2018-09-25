@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="la_baignoire"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="la_baignoire">
+				<Option output="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/la_baignoire" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 la_baignoire"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="la_baignoire/fast">
+				<Option output="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/la_baignoire" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/9.1.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 la_baignoire/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/AbstractEntity.cpp">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/AbstractEntity.h">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/Character.cpp">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/Character.h">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/IObservable.h">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/IObserver.h">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/ISerializable.h">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/MonsterFactory.cpp">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/MonsterFactory.h">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/Scene.cpp">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/Scene.h">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/SprinterMonster.cpp">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/SprinterMonster.h">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/TimeManager.cpp">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/TimeManager.h">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/ZombieMonster.cpp">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/ZombieMonster.h">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/main.cpp">
+			<Option target="la_baignoire"/>
+		</Unit>
+		<Unit filename="/Users/n.elhormi/Desktop/etna/IDV-CPP4/la_baignoire/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

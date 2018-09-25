@@ -1,0 +1,29 @@
+//
+// Created by Nassim EL HORMI on 10/09/2018.
+//
+
+#ifndef LA_BAIGNOIRE_CHARACTER_H
+#define LA_BAIGNOIRE_CHARACTER_H
+
+
+#include "AbstractEntity.h"
+
+class Character : public AbstractEntity {
+
+private:
+    double _x;
+    double _y;
+    int _life;
+
+public:
+    virtual double GetX() const;
+    virtual void SetX(double);
+    virtual double GetY() const;
+    virtual void SetY(double);
+    virtual int GetLife() const;
+    virtual int GetLife() const;
+    virtual ~Character();
+};
+
+
+#endif //LA_BAIGNOIRE_CHARACTER_H
